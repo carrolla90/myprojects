@@ -1,5 +1,5 @@
 name = input("Hi! Please confirm your name ")
-print("Welcome to my Python calculator " + name)
+print("Welcome to my calculator " + name)
 
 num1 = float(input("Please type a number: "))
 op = input("Choose an operator. Enter + to add, - to minus, * to multiply or / to divide  : ")
